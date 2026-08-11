@@ -1,123 +1,276 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020,241044,4C1D95,6D28D9&height=250&section=header&text=URVASHI%20JANGRA&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20NSUT%20%7C%20AI%20Explorer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-<h3>💻 Building. Learning. Experimenting. Evolving.</h3>
+<!--                         HERO                                 -->
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+NSUT;Exploring+Generative+AI+%26+Agentic+AI;Learning+Python+%26+C%2B%2B;Creating+with+AI+Tools+%26+Prompt+Engineering;Turning+Ideas+into+Projects;Currently+Building+My+Developer+Portfolio" alt="Typing SVG"/>
-</p>
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p>
-  <a href="https://github.com/Urvashi3009">
-    <img src="https://img.shields.io/badge/GitHub-Urvashi3009-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=241044"/>
-  </a>
-  <a href="https://www.linkedin.com/in/urvashi-jangra-86bb1937a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=4C1D95"/>
-  </a>
-  <a href="mailto:jangraurvashita@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-0B1020?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=6D28D9"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=020617,0B1120,172554,312E81,4C1D95&height=285&section=header&text=URVASHI%20JANGRA&fontSize=62&fontColor=F8FAFC&fontAlignY=34&animation=twinkling&desc=CS%20STUDENT%20%E2%80%A2%20AI%20EXPLORER%20%E2%80%A2%20BUILDER%20IN%20PROGRESS&descAlignY=57&descSize=18&descColor=C4B5FD" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Urvashi3009&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge&labelColor=0B1020" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Urvashi3009?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=0B1020" alt="GitHub followers"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Science+Student+%40+NSUT;Python+%7C+C%2B%2B+%7C+HTML+%7C+CSS;Exploring+Generative+AI;Exploring+Agentic+AI;Experimenting+with+AI+Tools;Learning+Prompt+Engineering;Turning+Ideas+into+Projects;Building+My+Developer+Portfolio" alt="Typing animation"/>
+
+<br>
+
+<a href="https://github.com/Urvashi3009">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=312E81" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/urvashi-jangra-86bb1937a/">
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=3730A3" alt="LinkedIn"/>
+</a>
+<a href="mailto:jangraurvashita@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=4C1D95" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Urvashi3009&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge&labelColor=020617" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Urvashi3009?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=020617" alt="Followers"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-020617?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=4C1D95" alt="Learning and building"/>
 
 </div>
 
-🌌 About Me
+🌙 whoami
 
-"I don't want to just learn technology — I want to build with it."
+<div align="center">
 
-Hey! I'm Urvashi, a second-year B.Tech Computer Science student at NSUT Main Campus, Dwarka, New Delhi.
+A Computer Science student exploring the intersection of code × creativity × AI.
 
-I'm currently in the phase where I'm turning curiosity into skills — learning the fundamentals of programming and web development while diving deeper into Generative AI, Agentic AI, AI tools, and prompt engineering.
+</div>
 
-⚡ Currently
+Hi! I'm Urvashi Jangra, a second-year B.Tech Computer Science student at NSUT Main Campus, Dwarka, New Delhi.
 
-🎓 Pursuing B.Tech in Computer Science at NSUT
+I'm building my foundations in programming and web development while exploring Generative AI, Agentic AI, AI tools, and prompt engineering.
 
-🧠 Strengthening my foundation in Python & C++
+I'm currently at the exciting stage where I'm moving from learning concepts → experimenting → building real projects.
 
-🌐 Learning and building with HTML & CSS
+I don't want my GitHub to just show what I know.I want it to show what I'm becoming.
 
-🤖 Exploring Generative AI & Agentic AI
+const urvashi = {
+  role: "Computer Science Student",
+  university: "NSUT — Main Campus, Dwarka",
+  degree: "B.Tech Computer Science",
+  year: "2nd Year",
 
-✨ Experimenting with AI tools & prompt engineering
+  languages: ["Python", "C++"],
+  web: ["HTML", "CSS"],
+  exploring: [
+    "Generative AI",
+    "Agentic AI",
+    "AI Tools",
+    "Prompt Engineering"
+  ],
 
-🛠️ Currently building my projects and developer portfolio
+  projects: "Currently building",
+  portfolio: "Currently building",
+  status: "Learn → Experiment → Build → Ship"
+};
 
-🚀 Slowly turning ideas into things I can actually ship
+🪐 My Tech Universe
 
-🧭 My Learning Journey
+<div align="center">
 
-                 ┌───────────────────────────────────────┐
-                 │         COMPUTER SCIENCE               │
-                 └───────────────────┬───────────────────┘
-                                     │
-          ┌──────────────────────────┼──────────────────────────┐
-          ▼                          ▼                          ▼
-    💻 PROGRAMMING              🌐 WEB                    🤖 AI
-          │                          │                          │
-     Python • C++              HTML • CSS             Generative AI
-          │                          │                  Agentic AI
-          │                          │                AI Tools
-          │                          │              Prompt Engineering
-          └──────────────────────────┼──────────────────────────┘
-                                     ▼
-                              🚀 BUILD & SHIP
+<table>
+<tr>
+<td align="center" width="25%">
 
-🛠️ Tech Stack
+💻
+
+CODE
+
+PythonC++
+
+</td>
+
+<td align="center" width="25%">
+
+🌐
+
+WEB
+
+HTMLCSS
+
+</td>
+
+<td align="center" width="25%">
+
+🤖
+
+AI
+
+GenAIAgentic AI
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+
+AI SKILLS
+
+AI ToolsPrompt Engineering
+
+</td>
+</tr>
+</table>
+
+</div>
 
 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" height="48" alt="Python C++"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp" height="58" alt="Python C++"/>
 </p>
 
-🌐 Web
+🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" height="48" alt="HTML CSS"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css" height="58" alt="HTML CSS"/>
 </p>
 
-🤖 AI & Emerging Tech
+🧰 Tools & Workflow
 
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-241044?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-4C1D95?style=for-the-badge&logoColor=FFFFFF" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/AI%20Tools-6D28D9?style=for-the-badge&logoColor=FFFFFF" alt="AI Tools"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-312E81?style=for-the-badge&logoColor=FFFFFF" alt="Prompt Engineering"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="58" alt="Git GitHub VS Code"/>
 </p>
 
-🚀 What I'm Working Towards
+🤖 AI & Emerging Technology
+
+<p align="center">
+<img src="https://img.shields.io/badge/GENERATIVE_AI-020617?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=312E81" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-020617?style=for-the-badge&logoColor=FFFFFF&labelColor=3730A3" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/AI_TOOLS-020617?style=for-the-badge&logoColor=FFFFFF&labelColor=4338CA" alt="AI Tools"/>
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-020617?style=for-the-badge&logoColor=FFFFFF&labelColor=4C1D95" alt="Prompt Engineering"/>
+</p>
+
+✦ The Developer Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Urvashi3009&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=6D28D9&custom_title=Urvashi's%20GitHub%20Stats" height="190" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvashi3009&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1&langs_count=6&custom_title=Language%20Snapshot" height="190" alt="Top languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Urvashi3009&hide_border=true&background=020617&ring=6D28D9&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B" alt="GitHub streak"/>
+
+</div>
+
+🧠 Current Learning Matrix
+
+<div align="center">
+
+⚡ Area
+
+🔎 Focus
+
+🚦 Stage
+
+🐍 Python
+
+Programming fundamentals
+
+🟣 Learning
+
+⚙️ C++
+
+Programming & problem solving
+
+🟣 Learning
+
+🌐 HTML
+
+Web structure
+
+🟣 Learning
+
+🎨 CSS
+
+Web styling
+
+🟣 Learning
+
+✨ Generative AI
+
+AI concepts & applications
+
+🔵 Exploring
+
+🤖 Agentic AI
+
+AI agents & workflows
+
+🔵 Exploring
+
+🧩 AI Tools
+
+Practical AI workflows
+
+🔵 Exploring
+
+📝 Prompt Engineering
+
+Better AI interaction
+
+🔵 Exploring
+
+🚀 Projects
+
+Turning knowledge into builds
+
+🟡 Building
+
+🌐 Portfolio
+
+Personal developer presence
+
+🟡 Building
+
+</div>
+
+🧬 My Build Loop
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=90&text=LEARN%20%E2%86%92%20EXPERIMENT%20%E2%86%92%20BUILD%20%E2%86%92%20BREAK%20%E2%86%92%20FIX%20%E2%86%92%20SHIP&fontSize=22&fontColor=C4B5FD&stroke=4C1D95&strokeWidth=2" width="90%"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="20%" align="center">01<br><b>LEARN</b></td>
+<td width="20%" align="center">02<br><b>EXPERIMENT</b></td>
+<td width="20%" align="center">03<br><b>BUILD</b></td>
+<td width="20%" align="center">04<br><b>BREAK & FIX</b></td>
+<td width="20%" align="center">05<br><b>SHIP 🚀</b></td>
+</tr>
+</table>
+
+🔭 What I'm Building Next
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🧠 Strong Foundations
+🤖 AI Experiments
 
-Building a solid base in:
-
-Data structures & problem solving
-
-Python
-
-C++
-
-Web fundamentals
-
-</td>
-<td width="50%" valign="top">
-
-🤖 AI Exploration
-
-Going deeper into:
+Exploring ideas around:
 
 Generative AI
 
-Agentic AI
+Agentic workflows
 
 AI-powered applications
 
@@ -126,68 +279,60 @@ Prompt engineering
 Practical AI tools
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
-🌐 Build in Public
+🌐 Developer Projects
 
-My goal is to gradually turn my learning into:
+Building toward:
 
-Real projects
+Web projects
+
+Programming projects
 
 GitHub repositories
 
-Experiments
+A personal portfolio
 
-A strong developer portfolio
-
-</td>
-<td width="50%" valign="top">
-
-🚀 Next Chapter
-
-Learn → Experiment → Build → Share → Improve
-
-I'm currently in the Build phase.
+A stronger project showcase
 
 </td>
 </tr>
 </table>
 
-📂 Featured Projects
-
-Currently building.
-
-I'm working on my first set of projects and will add them here as soon as they are ready.
-
-🚧 Project showcase coming soon...
-
-When projects are added, this section will include GitHub stats cards, technology breakdowns, and live demos.
-
-📊 GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Urvashi3009&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&ring_color=6D28D9&custom_title=Urvashi's%20GitHub%20Stats" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvashi3009&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=D1D5DB&langs_count=6&custom_title=Languages%20I'm%20Using" height="180" alt="Top Languages"/>
-
 </div>
 
-🔥 GitHub Streak
+🚧 Project showcase loading...I'm currently working on my projects. This section will become the home for them once they're ready.
 
-<div align="center">
+🗺️ Roadmap
 
-<img src="https://streak-stats.demolab.com?user=Urvashi3009&hide_border=true&background=0B1020&ring=6D28D9&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" alt="GitHub Streak"/>
-
-</div>
+                    ┌───────────────────────┐
+                    │   COMPUTER SCIENCE    │
+                    │       FOUNDATION      │
+                    └───────────┬───────────┘
+                                │
+                ┌───────────────┼───────────────┐
+                ▼               ▼               ▼
+             💻 CODE          🌐 WEB           🤖 AI
+                │               │               │
+             Python           HTML          Generative AI
+             C++              CSS           Agentic AI
+                │               │            AI Tools
+                └───────────────┼────────────┘
+                                ▼
+                         🧩 BUILD PROJECTS
+                                │
+                                ▼
+                       📦 GITHUB PORTFOLIO
+                                │
+                                ▼
+                         🚀 KEEP SHIPPING
 
 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Urvashi3009&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Urvashi3009&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
 
 </div>
 
@@ -195,7 +340,17 @@ When projects are added, this section will include GitHub stats cards, technolog
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Urvashi3009&bg_color=0B1020&color=A78BFA&line=6D28D9&point=C4B5FD&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Urvashi3009&bg_color=020617&color=A78BFA&line=6D28D9&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Journey" width="96%" alt="Contribution graph"/>
+
+</div>
+
+📌 Currently
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓_STATUS-2nd%20Year%20B.Tech%20CSE-020617?style=for-the-badge&labelColor=172554&color=312E81" alt="Student status"/>
+<img src="https://img.shields.io/badge/🧠_MODE-LEARNING-020617?style=for-the-badge&labelColor=312E81&color=4C1D95" alt="Learning"/>
+<img src="https://img.shields.io/badge/🚀_MISSION-BUILDING-020617?style=for-the-badge&labelColor=3730A3&color=6D28D9" alt="Building"/>
 
 </div>
 
@@ -204,26 +359,29 @@ When projects are added, this section will include GitHub stats cards, technolog
 <div align="center">
 
 <a href="https://www.linkedin.com/in/urvashi-jangra-86bb1937a/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=4C1D95" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=3730A3" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:jangraurvashita@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0B1020?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=6D28D9" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=4C1D95" alt="Email"/>
+</a>
+
+<a href="https://github.com/Urvashi3009">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=312E81" alt="GitHub"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-✨ Learning today. Building tomorrow.
+🌙 Learning today. Building tomorrow.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9,4C1D95,241044,0B1020&height=150&section=footer&animation=twinkling" width="100%"/>
+<sub>Thanks for stopping by — this profile is a work in progress, just like the developer behind it.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95,312E81,172554,0B1120,020617&height=190&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
-
-
-
-
